@@ -1,0 +1,10 @@
+$display_b: block;
+$display_n: none;
+
+.visible{
+  display: $display_b;
+}
+
+.no-visible{
+  display: $display_n;
+}
